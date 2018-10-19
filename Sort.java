@@ -1,4 +1,4 @@
-//12311231
+//3
 class ArraySort {
 	private int temp[] = null;
 
